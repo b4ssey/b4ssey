@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web security**
 
-- 👨‍💻 All of my projects are available at [https://ekemini.tech](ekemini.tech)
+- 👨‍💻 All of my projects are available at [ekemini.tech](https://ekemini.tech)
 
 - 💬 Ask me about **react native, node.js, AWS**
 
