@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekemini Bassey</h1>
 <h3 align="center">You Couldn't Live with Your Own Bugs, Where Did that Bring You? Back to Me</h3>
 
-- 🔭 I’m currently working on [cloud computing materials](https://github.com/CodeYourFuture/)
+- 🔭 I’m currently working on [devops materials with CYF](https://github.com/CodeYourFuture/)
 
 - 🌱 I’m currently learning **web security**
 
