@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **web security**
 
-- 👨‍💻 All of my projects are available at [ekemini.tech](https://ekemini.tech)
+- 👨‍💻 All of my projects are available at [https://ekemini.tech](ekemini.tech)
 
 - 💬 Ask me about **react native, node.js, AWS**
 
 - 📫 How to reach me **bassey.ekemini.e@gmail.com**
 
-- 📄 Know about my experiences [https://rebrand.ly/ebasseyresume](EBassey_Resume)
+- 📄 Know about my experiences [EBassey_Resume](https://rebrand.ly/ebasseyresume)
 
 - ⚡ Fun fact **I love thinking**
 
