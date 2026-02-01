@@ -48,6 +48,6 @@ I am a <b>Product Security Engineer</b> based in London from Nigeria 🇳🇬. I
 </p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4ssey&show_icons=true&locale=en" alt="b4ssey" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4ssey&show_icons=true&locale=en" alt="b4ssey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4ssey&" alt="b4ssey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4ssey&" alt="b4ssey" /></p> -->
