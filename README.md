@@ -1,35 +1,53 @@
 <h1 align="center">Hi 👋, I'm Ekemini Bassey</h1>
-<h3 align="center">Building secure systems & crafting sound.</h3>
+<h3 align="center">Product Security Engineer | Cloud-Native Security | Builder-turned-Breaker</h3>
 
-- 🔭 I’m currently working with **DevSecOps Tools**
+<p align="center">
+  <em>"Bridging the gap between complex code and secure infrastructure."</em>
+</p>
 
-- 🌱 I’m currently learning **Red-Teaming**
-
-- 👨‍💻 All of my projects are available at [ekemini.tech](ekemini.tech)
-
-- 📝 I rarely write articles on [Medium](https://medium.com/@b4ssey)
-
-- 💬 Ask me about **Application Security**
-
-- 📫 How to reach me **mailto@ekemini.tech**
-
-- 📄 Know about my experiences [ebassey_cv](https://docs.google.com/document/d/1Kw1jdMeqSjKYLXkDJx1GthY89YEWSjJlziqY3mxVeV8/edit?usp=sharing)
-
-- ⚡ Fun fact **I'm a Sound Engineer**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/b_ssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_ssey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/e-bassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e-bassey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11142050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11142050" height="30" width="40" /></a>
+I am a <b>Product Security Engineer</b> based in London from Nigeria 🇳🇬. I switched from building software to breaking it—mostly as penance for the insecure code I wrote in the past. Currently working at <b>Just Eat Takeaway.com</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>    
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   
+<br>
+
+- 🔭 I’m currently building **Automated Security Guardrails** & **Cloud Governance Policies**.
+- 🌱 I’m currently advancing in **Adversarial Simulation (OSCP)** & discovering **LLM Security**.
+- 👨‍💻 View my Portfolio & Projects at **[ekeminibassey.com](https://ekeminibassey.com)**.
+- ✍️ I write technical security breakdowns on **[Medium](https://medium.com/@b4ssey)**.
+- 💬 Ask me about **Threat Modeling**, **Secure SDLC**, and why `alert(1)` is scarier than it looks.
+- ⚡ Fun fact: **I'm a Sound Engineer who loves playing football and reading books.**
+
+<br>
+
+<h3 align="left">☁️ Cloud & DevSecOps Infrastructure:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="45" height="45"/></a>
 </p>
+
+<h3 align="left">💻 Languages & Frameworks:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/></a>
+</p>
+
+<br>
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/e-bassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e-bassey" height="30" width="40" /></a>&nbsp;
+  <a href="https://medium.com/@b4ssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="b4ssey" height="30" width="40" /></a>&nbsp;
+  <a href="https://ekeminibassey.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-ekeminibassey.com-blue?style=for-the-badge&logo=firefox" alt="website" height="30" /></a>
+</p>
+
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4ssey&show_icons=true&locale=en" alt="b4ssey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4ssey&" alt="b4ssey" /></p>
